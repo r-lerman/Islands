@@ -1,8 +1,9 @@
 C++ Code Problem
 "Islands in the ocean"
 
-Create function for "Ocean" class which return the current number of islands in the ocean.
-int set(int x, int y, int value)
+Create function for "Ocean" class which return the current number of islands in the ocean:
+
+**int set(int x, int y, int value)**
 
 Function shold register a land (value = 1) or water (value = 0) on the point with coordinates (x, y).
 
